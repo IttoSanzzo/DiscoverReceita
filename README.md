@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Project image" src=".github/DiscoverReceita.png">
+  <img alt="Project image" src="https://i.imgur.com/RzaAAST.png">
 </p>
 
 ## 🚀 Tecnologias
